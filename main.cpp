@@ -56,36 +56,36 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 //  action 1: moves forwards
 van.movesForwards()
 //  action 2: moves backwards
-van.()
+van.movesBackwards()
 //  action 3: idles
-van.()
+van.ideas()
 
 //  2)
 //  Noun: person
 //  action 1: looks up 
-person.()
+person.looksUp()
 //  action 2: looks left
-person.()
+person.looksLeft()
 //  action 3: looks right
-person.()
+person.looksRight()
 
 //  3)
 //  Noun: dog
 //  action 1: barks
-dog.()
+dog.bark()
 //  action 2: sniffs
-dog.()
+dog.sniff()
 //  action 3: growls
-dog.()
+dog.growl()
 
 //  4)
 //  Noun: ipod
 //  action 1: plays song
-ipod.()
+ipod.playSong()
 //  action 2: plays album
-ipod.()
+ipod.playAlbum()
 //  action 3: pauses
-ipod.()
+ipod.pause()
 
 //  5)
 //  Noun: kettle
