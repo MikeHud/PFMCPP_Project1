@@ -52,85 +52,94 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: van 
+//  action 1: moves forwards
+van.movesForwards()
+//  action 2: moves backwards
+van.()
+//  action 3: idles
+van.()
 
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: person
+//  action 1: looks up 
+person.()
+//  action 2: looks left
+person.()
+//  action 3: looks right
+person.()
 
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: dog
+//  action 1: barks
+dog.()
+//  action 2: sniffs
+dog.()
+//  action 3: growls
+dog.()
 
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: ipod
+//  action 1: plays song
+ipod.()
+//  action 2: plays album
+ipod.()
+//  action 3: pauses
+ipod.()
 
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: kettle
+//  action 1: boils
+kettle.boilsWater()
+//  action 2: explodes
+kettle.explodes() // ..?
+//  action 3: pours
+kettle.pours()
 
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: electricBassGuitar
+//  action 1: plays open E
+electricBassGuitar.soundOpenE()
+//  action 2: plays chord 
+electricBassGuitar.playChord()
+//  action 3: electrocutes
+electricBassGuitar.electrocutePlayer()
 
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: fridge
+//  action 1: cools
+fridge.cool()
+//  action 2: freezes
+fridge.freeze()
+//  action 3: makes sound
+fridge.soundHum()
 
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: phone
+//  action 1: calls
+phone.call()
+//  action 2: texts
+phone.text()
+//  action 3: vibrates
+phone.vibrate()
 
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: kindle
+//  action 1: charges
+kindle.chargeBattery()
+//  action 2: illuminate screen
+kindle.illuminateScreen()
+//  action 3: syncs latest book
+kindle.syncLibrary()
 
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: water
+//  action 1: freezes
+water.freeze()
+//  action 2: spills
+water.spill()
+//  action 3: boils
+water.boil()
 
 
 #endif
