@@ -54,92 +54,92 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 //  1)
 //  Noun: van 
 //  action 1: moves forwards
-van.movesForward()
+van.movesForward();
 //  action 2: moves backwards
-van.movesBackward()
+van.movesBackward();
 //  action 3: idles
-van.idle()
+van.idle();
 
 //  2)
 //  Noun: person
 //  action 1: looks up 
-person.lookUp()
+person.lookUp();
 //  action 2: looks left
-person.lookLeft()
+person.lookLeft();
 //  action 3: looks right
-person.lookRight()
+person.lookRight();
 
 //  3)
 //  Noun: dog
 //  action 1: barks
-dog.bark()
+dog.bark();
 //  action 2: sniffs
-dog.sniff()
+dog.sniff();
 //  action 3: growls
-dog.growl()
+dog.growl();
 
 //  4)
 //  Noun: ipod
 //  action 1: plays song
-ipod.playSong()
+ipod.playSong();
 //  action 2: plays album
-ipod.playAlbum()
+ipod.playAlbum();
 //  action 3: pauses
-ipod.pause()
+ipod.pause();
 
 //  5)
 //  Noun: kettle
 //  action 1: boils
-kettle.boilWater()
+kettle.boilWater();
 //  action 2: explodes
-kettle.explode() // ..?
+kettle.explode(); // ..?
 //  action 3: pours
-kettle.pour()
+kettle.pour();
 
 //  6)
 //  Noun: electricBassGuitar
 //  action 1: plays open E
-electricBassGuitar.soundOpenE()
+electricBassGuitar.soundOpenE();
 //  action 2: plays chord 
-electricBassGuitar.playChord()
+electricBassGuitar.playChord();
 //  action 3: electrocutes
-electricBassGuitar.electrocutePlayer()
+electricBassGuitar.electrocutePlayer();
 
 //  7)
 //  Noun: fridge
 //  action 1: cools
-fridge.cool()
+fridge.cool();
 //  action 2: freezes
-fridge.freeze()
+fridge.freeze();
 //  action 3: makes sound
-fridge.soundHum()
+fridge.soundHum();
 
 //  8)
 //  Noun: phone
 //  action 1: calls
-phone.call()
+phone.call();
 //  action 2: texts
-phone.text()
+phone.text();
 //  action 3: vibrates
-phone.vibrate()
+phone.vibrate();
 
 //  9)
 //  Noun: kindle
 //  action 1: charges
-kindle.chargeBattery()
+kindle.chargeBattery();
 //  action 2: illuminate screen
-kindle.illuminateScreen()
+kindle.illuminateScreen();
 //  action 3: syncs latest book
-kindle.syncLibrary()
+kindle.syncLibrary();
 
 //  10)
 //  Noun: water
 //  action 1: freezes
-water.freeze()
+water.freeze();
 //  action 2: spills
-water.spill()
+water.spill();
 //  action 3: boils
-water.boil()
+water.boil();
 
 
 #endif
